@@ -27,7 +27,7 @@ h4{
 .hobbies{
   font-size: 20px;
   font-weight: 600;
-  background-color: #F5F5F5;
+  background-color: greenyellow;
 }
 ol{
   text-align: center;
@@ -42,4 +42,10 @@ li {
 ul{
   text-align: center;
   font-weight: 600;
+}
+body{
+  background-color: #F5F5F5;
+}
+.project{
+  background-color: white;
 }
