@@ -1,7 +1,7 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
-JohnPaul.  (ME)
+# JohnPaul Portfolio
+#### JohnPaul Blog's, Friday,20th April 2018
+#### **{List of contributors}**
+JohnPaul.  (ONLY ME)
 ## Project Name
 My Portfolio
 ## Description
