@@ -49,3 +49,24 @@ body{
 .project{
   background-color: white;
 }
+.about {
+  border-left: 2px red;
+  border-right: 4px blue;
+  border-top: 6px orange;
+  border-bottom: 8px black;
+}
+.about {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+}
+.hobbies {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+}
+.project {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+}
