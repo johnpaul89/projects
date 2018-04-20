@@ -27,7 +27,19 @@ h4{
 .hobbies{
   font-size: 20px;
   font-weight: 600;
+  background-color: #F5F5F5;
 }
 ol{
   text-align: center;
+}
+li {
+   padding: 10px;
+}
+
+#menu {
+    margin: 21px 646px 21px 646px;
+}
+ul{
+  text-align: center;
+  font-weight: 600;
 }
