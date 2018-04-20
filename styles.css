@@ -21,19 +21,19 @@ h4{
   text-align: center;
 }
 .about{
-  background-color: darkgreen;
-  color: white;
+  background-color: #FAF0E6;
 }
 .hobbies{
   font-size: 20px;
   font-weight: 600;
-  background-color: greenyellow;
+  background-color: #fff5ee;
 }
 ol{
   text-align: center;
 }
 li {
    padding: 10px;
+   list-style: none;
 }
 
 #menu {
@@ -56,12 +56,12 @@ body{
   border-bottom: 8px black;
 }
 .about {
-  border: 2px solid red;
+  border: 2px solid lightgreen;
   padding: 6px;
   margin: 20px;
 }
 .hobbies {
-  border: 2px solid red;
+  border: 2px solid lightblue;
   padding: 6px;
   margin: 20px;
 }
